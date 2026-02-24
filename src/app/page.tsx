@@ -119,10 +119,7 @@ export default function SamDentalHome() {
             transition={fadeIn.transition}
             className="space-y-6 relative z-10 md:relative md:z-auto max-w-lg"
           >
-            <div className="hidden md:inline-flex items-center gap-2 bg-white px-6 py-3 rounded-full shadow-sm text-base font-bold text-sam-accentDark">
-               <ShieldCheck size={20} />
-               <span>Clinică Stomatologică Premium</span>
-            </div>
+          
 
             <h1 className="font-heading text-5xl md:text-7xl font-extrabold leading-tight text-white">
               Sam Dental <br/>
