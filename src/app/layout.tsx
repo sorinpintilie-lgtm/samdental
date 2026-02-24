@@ -18,8 +18,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Dristor Dent | Cabinet Stomatologic de Familie",
-  description: "Cabinet stomatologic privat în Dristor. Tratamente atente pentru adulți și copii, din 2008. Sunați pentru programare.",
+  title: "Sam Dental | Clinică Stomatologică Sector 5",
+  description: "Clinică stomatologică premium în București, Sector 5. Specializați în implantologie digitală și estetică dentară avansată.",
 };
 
 export default function RootLayout({
@@ -29,7 +29,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ro">
-      <body className={`${nunito.variable} ${inter.variable} font-body antialiased bg-dristor-bg text-dristor-text`}>
+      <body className={`${nunito.variable} ${inter.variable} font-body antialiased bg-sam-bg text-sam-text`}>
         {/* Promo Bar */}
         <div className="promo-bar">
           <div className="promo-desktop">

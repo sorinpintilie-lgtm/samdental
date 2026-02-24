@@ -19,11 +19,11 @@ const config: Config = {
         body: ['var(--font-inter)', 'sans-serif'],
       },
       colors: {
-        dristor: {
+        sam: {
           bg: '#F4F9F9',
           surface: '#FFFFFF',
-          accent: '#4FD1C5',
-          accentDark: '#38B2AC',
+          accent: '#13B396',      // Sam Dental teal
+          accentDark: '#0E8F77',  // Darker shade for hovers
           text: '#2C3E50',
           textLight: '#5D7285',
           highlight: '#E6FFFA',

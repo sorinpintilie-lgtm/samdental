@@ -1,6 +1,6 @@
-# Dristor Dent - Dental Clinic Website
+# Sam Dental - Clinică Stomatologică Premium
 
-A modern, responsive website for Dristor Dent dental clinic built with Next.js, TypeScript, and Tailwind CSS.
+A modern, responsive website for Sam Dental dental clinic built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Features
 
@@ -68,4 +68,4 @@ Place your images in the `public/` folder:
 
 ## License
 
-© 2026 Dristor Dent SRL. All rights reserved.
+© 2026 Sam Dental. All rights reserved.
